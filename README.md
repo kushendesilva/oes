@@ -6,6 +6,6 @@ Default username & password for lecturer/admin panel
         Username - admin
         Password - admin
 
-If you want to make any changes access the coding by extracting the Online_Examination_System_18s07034.zip zip file.
+If you want to make any changes access the code using IntelliJ IDEA(Pre-configured).
 
 Please note this is a project I made for my university, so please ignore the long naming conventions.
