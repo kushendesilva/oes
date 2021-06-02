@@ -9,3 +9,5 @@ Default username & password for lecturer/admin panel
 If you want to make any changes access the code using IntelliJ IDEA(Pre-configured).
 
 Please note this is a project I made for my university, so please ignore the long naming conventions.
+
+**Author:** [Kushen De Silva (@kushenthimira)](https://github.com/kushenthimira) | [Facebook](https://facebook.com/ciphernpc) | [LinkedIn](https://linkedin.com/in/kushenthimira) | [WhatsApp](https://wa.me/94717827878) |
