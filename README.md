@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img style="margin-bottom:-3px;" src="https://images.squarespace-cdn.com/content/v1/5b5587ed8ab722298af0921a/4d51fa35-1bcb-4385-9be6-03f330e5dad6/ABOUT-US-JOHN-WAVING.gif" width="40">, I'm Kushen De Silva</h1>
-<p align="center"><em>Online Examinationn System..<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p align="center"><em>Software Engineer..<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🌐 Personal Website - **https://kushen.tech**
@@ -7,11 +7,12 @@
 
 <h3 align="left">Instructions</h3>
 
-- Online Examination System (OES) is an online examination system I made for my university 2nd year final project.
-- Import `oes.sql` to your local database server and run the `Online_Examination_System_18s07034.jar` file using the command<br>`java -jar Online_Examination_System_18s07034.jar`
-- Default username & password for lecturer/admin panel<br>Username - `admin`<br>Password - `admin`
-- If you want to make any changes access the code using IntelliJ IDEA(Pre-configured).
-- Please note this is a project I made for my university, so please ignore the long naming conventions.
+- Online Examination System (OES) is an online examination system I made for my university 2nd year final project.[^1]
+- Import `oes.sql` to your local SQL database server.
+- Run[^2] the `Online_Examination_System_18s07034.jar` file using the command,`java -jar Online_Examination_System_18s07034.jar`
+- Default username & password for admin panel<br>Username - `admin`<br>Password - `admin`
+  [^1]:Please note this is a project I made for my university, so please ignore the long naming conventions.
+  [^2]:Use IntelliJ IDEA for a better experience since configuration files are included.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
