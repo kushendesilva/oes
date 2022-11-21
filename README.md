@@ -8,8 +8,8 @@
 <h3 align="left">Instructions</h3>
 
 - Online Examination System (OES) is an online examination system I made for my university 2nd year final project.
-- Import oes.sql to your local database server and run the Online_Examination_System_18s07034.jar file using command "java -jar Online_Examination_System_18s07034.jar".
-- Default username & password for lecturer/admin panel<br>Username - admin<br>Password - admin
+- Import `oes.sql` to your local database server and run the `Online_Examination_System_18s07034.jar` file using command `java -jar Online_Examination_System_18s07034.jar`
+- Default username & password for lecturer/admin panel<br>Username - `admin`<br>Password - `admin`
 - If you want to make any changes access the code using IntelliJ IDEA(Pre-configured).
 - Please note this is a project I made for my university, so please ignore the long naming conventions.
 
