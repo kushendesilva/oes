@@ -7,8 +7,7 @@
 
 <h3 align="left">Instructions</h3>
 
-- Online Examination System (OES) is an online examination system I made for my university 2nd year final project.[^1]
-- Import `oes.sql` to your local SQL database server.
+- Import `oes.sql` to your local SQL database server.[^1]
 - Use the command below to launch the software with your terminal console.[^2]
 ```
 java -jar Online_Examination_System_18s07034.jar
